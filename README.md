@@ -4,7 +4,7 @@
 * Software Engineer by day ☀️
 * Game Developer by night 🌙
 
-![JesusAlfMejia's GitHub stats](https://github-readme-stats.vercel.app/api?username=JesusAlfMejia&count_private=true&theme=gradient)
+![JesusAlfMejia's GitHub stats](https://github-readme-stats.vercel.app/api?username=JesusAlfMejia&count_private=true&theme=chartreuse-dark&show_icons=true)
 
 
 
