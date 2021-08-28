@@ -1,11 +1,13 @@
-### Hi there 👋
+## Hi there, I'm Jesus Alfredo 👋
 
-#### I'm Jesus Alfredo
 
-* ##### Software Engineer by day ☀️
-* ##### Game Developer by night 🌙
+* Software Engineer by day ☀️
+* Game Developer by night 🌙
 
-![JesusAlfMejia's GitHub stats](https://github-readme-stats.vercel.app/api?username=JesusAlfMejia&count_private=true)
+![JesusAlfMejia's GitHub stats](https://github-readme-stats.vercel.app/api?username=JesusAlfMejia&count_private=true&theme=synthwave)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats&count_private=true&theme=synthwave)
+
 
 
 
